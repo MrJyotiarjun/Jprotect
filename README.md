@@ -72,10 +72,10 @@ Here's a full example combining all the steps:
 Following these steps, you can integrate and customize JProtect to protect your website's content effectively.
 
 ---
-Website https://Jyotiarjun.dev <be>
-Github https://github.com/MrJyotiarjun/ <be>
-Facebook https://facebook.com/MrJyotiarjun/ <be>
-Twitter https://twitter.com/MrJytiarjun <be>
-Instagram https://instagram.com/MrJyotiarjun/ <be>
-Linkedin https://www.linkedin.com/in/MrJyotiarjun/ <be>
+Website https://Jyotiarjun.dev <br>
+Github https://github.com/MrJyotiarjun/ <br>
+Facebook https://facebook.com/MrJyotiarjun/ <br>
+Twitter https://twitter.com/MrJytiarjun <br>
+Instagram https://instagram.com/MrJyotiarjun/ <br>
+Linkedin https://www.linkedin.com/in/MrJyotiarjun/ <br>
 Youtube https://www.youtube.com/MrJyotiarjun/
