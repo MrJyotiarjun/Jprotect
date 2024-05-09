@@ -57,7 +57,7 @@ Here's a full example combining all the steps:
     <title>JProtect Website Demo</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="path/to/jprotect.min.js"></script>
-    <link rel="stylesheet" href="path/to/jprotect.css">
+    <link rel="stylesheet" href="path/to/jprotect.min.css">
 </head>
 <body>
     <div id="protected-content" data-jprotect="true">
