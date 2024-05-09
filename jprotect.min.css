@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'fontello';
+	src: url('font/fontello.eot?77391083');
+	src: url('font/fontello.eot?77391083#iefix') format('embedded-opentype'), url('font/fontello.woff?77391083') format('woff'), url('font/fontello.ttf?77391083') format('truetype'), url('font/fontello.svg?77391083#fontello') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	-webkit-user-select: none !important;
+	-moz-user-select: none !important;
+	-ms-user-select: none !important;
+	user-select: none !important
+}
+
+img {
+	pointer-events: none !important
+}
+
+.icon-jprotect {
+	font-family: "fontello";
+	font-style: normal;
+	width: 1em;
+	font-size: 14px !important;
+}
+
+.jprotect-alert {
+	font-style: 12px !important;
+	position: fixed;
+	bottom: 20px;
+	left: 50%;
+	transform: translateX(-50%);
+	color: #fff;
+	padding: 8px 30px;
+	border-radius: 5px;
+	border: 1px solid #ff4141;
+	display: none;
+	color: #ff4141
+}
