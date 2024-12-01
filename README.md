@@ -37,11 +37,11 @@ JProtect is a jQuery plugin designed to protect website content by preventing us
 
 2. **Download JProtect:** Download the JProtect plugin files (jprotect.min.js and jprotect.css) from the official website or GitHub repository.
 
-3. **Include JProtect Files:** Include the JProtect plugin files in your HTML document within the `<head>` section.
+3. **Include JProtect CDN:** Include the JProtect plugin files via CDN in your HTML document within the `<head>` section.
 
    ```html
-   <script src="path/to/jprotect.min.js"></script>
-   <link rel="stylesheet" href="path/to/jprotect.min.css">
+   <script src="https://cdn.jsdelivr.net/gh/MrJyotiarjun/Jprotect/jprotect.min.js"></script>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MrJyotiarjun/Jprotect/jprotect.min.css">
    ```
 
 ### Full Example
@@ -56,8 +56,8 @@ Here's a full example combining all the steps:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JProtect Website Demo</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="path/to/jprotect.min.js"></script>
-    <link rel="stylesheet" href="path/to/jprotect.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/MrJyotiarjun/Jprotect/jprotect.min.js"></script>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MrJyotiarjun/Jprotect/jprotect.min.css">
 </head>
 <body>
     <div id="protected-content" data-jprotect="true">
